@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+- Name: Dipa Narotama 🌱
+- Profession: College Student 👯
+- Interests: Programming and machine learning 🔭
