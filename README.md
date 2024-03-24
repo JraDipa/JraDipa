@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JraDipa/JraDipa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JraDipa/JraDipa/snake.svg" alt="Snake animation" />
 
 ###
