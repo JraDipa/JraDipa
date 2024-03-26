@@ -8,10 +8,10 @@
 
 <div align="left">
   <a href="https://discord.gg/Sq6WJf85xb" target="_blank">
-    <img border-radius: 25px src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Hsdipsy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Hsdipsy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/dpnrtm/?hl=en" target="_blank">
-    <img border-radius: 25px src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=dpnrtm&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=dpnrtm&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
